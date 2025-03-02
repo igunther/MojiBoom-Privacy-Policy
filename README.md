@@ -2,7 +2,7 @@
 
 Privacy Policy for the MojiBoom
 
-Effective Date: March 5 2025
+Effective Date: March 2 2025
 
 Introduction
 
