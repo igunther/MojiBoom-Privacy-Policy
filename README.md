@@ -1,6 +1,6 @@
-# Mojiboom-privacy-policy
+# Mojiboom Privacy Policy
 
-Privacy Policy for the Mojiboom
+Privacy Policy for Mojiboom
 
 Effective Date: March 2 2025
 
