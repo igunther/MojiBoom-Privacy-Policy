@@ -1,12 +1,12 @@
-# MojiBoom-Privacy-Policy
+# Mojiboom-Privacy-Policy
 
-Privacy Policy for the MojiBoom
+Privacy Policy for the Mojiboom
 
 Effective Date: March 2 2025
 
 Introduction
 
-MojiBoom, we respect your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, and disclose information about you when you use our app MojiBoom.
+Mojiboom, we respect your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, and disclose information about you when you use our app Mojiboom.
 
 Information We Collect
 We may collect the following types of information:
@@ -50,4 +50,4 @@ Contact Us
 
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
-Email: mojiboom@gunther.cc
+Email: Mojiboom@gunther.cc
