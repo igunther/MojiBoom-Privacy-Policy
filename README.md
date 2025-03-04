@@ -1,7 +1,5 @@
 # Mojiboom Privacy Policy
-
 Privacy Policy for Mojiboom
-
 Effective Date: March 2 2025
 
 ## Introduction
