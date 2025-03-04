@@ -1,6 +1,5 @@
 # Mojiboom Privacy Policy
-Privacy Policy for Mojiboom
-Effective Date: March 2 2025
+Privacy Policy for Mojiboom. Updated March 4 2025.
 
 ## Introduction
 Mojiboom, we respect your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, and disclose information about you when you use our app Mojiboom.
