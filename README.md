@@ -1,4 +1,4 @@
-# Mojiboom-Privacy-Policy
+# MojiBoom-Privacy-Policy
 
 Privacy Policy for the Mojiboom
 
