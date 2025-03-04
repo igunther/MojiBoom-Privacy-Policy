@@ -7,7 +7,7 @@ Mojiboom, we respect your privacy and is committed to protecting your personal i
 ## Information We Collect
 We may collect the following types of information:
 
-#### Data You Provide
+### Data You Provide
 Contact Information: If you contact us for support, we may collect your name and email address.
 Other Information: Any other information you voluntarily provide. 
 
